@@ -1,0 +1,21 @@
+Script started on 2024-09-05 23:09:18-07:00
+]0;edilin@WWWSTU-P01:~/ceng381/hw1[edilin@WWWSTU-P01 hw1]$ lsrmdir dice.cls[Kvim dicels[Kgcc dice.c -Wall -o dice
+]0;edilin@WWWSTU-P01:~/ceng381/hw1[edilin@WWWSTU-P01 hw1]$ ./dice
+Dice Roll Simulation:
+
+Sum	Frequency	Relative Frequency
+2	1004		2.79%
+3	2043		5.67%
+4	3063		8.51%
+5	4070		11.31%
+6	5023		13.95%
+7	5971		16.59%
+8	5013		13.93%
+9	3926		10.91%
+10	2862		7.95%
+11	2002		5.56%
+12	1023		2.84%
+]0;edilin@WWWSTU-P01:~/ceng381/hw1[edilin@WWWSTU-P01 hw1]$ exit
+exit
+
+Script done on 2024-09-05 23:09:29-07:00
