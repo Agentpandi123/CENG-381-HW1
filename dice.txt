@@ -1,0 +1,1 @@
+/* Assigment 1: dice.c: A program that simulates rolling two dice 36,000 times, tallies the frequency of each possible sum (2 to 12), and displays the results in a table along with the relative frequencies. */
